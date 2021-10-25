@@ -6,12 +6,12 @@
 
 1. Data access and development cohort generation
 2. Data exploration
-  - Missing data
-  - Structure
-  - Bias
-  - Confounders
+    - Missing data
+    - Structure
+    - Bias
+    - Confounders
 3. Implementing and benchmarking pre-existing related methods
-  - [DeepIPW](https://github.com/AIMedLab/DeepIPW)
+    - [DeepIPW](https://github.com/AIMedLab/DeepIPW)
 4. Learning useful representations for Phase 2/3
 
 ## Phase 2
