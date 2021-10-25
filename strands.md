@@ -10,8 +10,9 @@
   - Structure
   - Bias
   - Confounders
-4. Implementing and benchmarking pre-existing related methods
-5. Learning useful representations for Phase 2/3
+3. Implementing and benchmarking pre-existing related methods
+  - [DeepIPW](https://github.com/AIMedLab/DeepIPW)
+4. Learning useful representations for Phase 2/3
 
 ## Phase 2
 
