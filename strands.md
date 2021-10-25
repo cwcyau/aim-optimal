@@ -1,6 +1,13 @@
 # Work Strands
 
-<img src="gfx/project_phases.png" alt="Phases" style="width:512px;"/>
+<figure>
+  <p align="center">
+    <img src="gfx/project_phases.png" alt="Project Phases" style="width:50%">
+  </p>
+  <p align="center">
+    <b>Figure 1 - Methods development phases</b>
+  </p>
+</figure>
 
 ## Phase 1
 
