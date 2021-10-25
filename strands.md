@@ -13,7 +13,7 @@ Members: Steven, Dominic
     - Bias
     - Confounders
 3. Implementing and benchmarking pre-existing related methods
-    - [DeepIPW](https://github.com/AIMedLab/DeepIPW)
+    - [DeepIPW](https://github.com/ruoqi-liu/DeepIPW)
 4. Learning useful representations for Phase 2/3
 
 ## Phase 2
