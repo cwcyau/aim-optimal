@@ -1,5 +1,7 @@
 # Work Strands
 
+<img src="gfx/phases.png" alt="Phases" style="width:200px;"/>
+
 ## Phase 1
 
 1. Data access and development cohort generation
