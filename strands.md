@@ -4,6 +4,8 @@
 
 ## Phase 1
 
+Members: Steven, Dominic
+
 1. Data access and development cohort generation
 2. Data exploration
     - Missing data
@@ -16,9 +18,13 @@
 
 ## Phase 2
 
+Members: Dominic, PDRA1, PDRA2
+
 1. Clustering model development
 2. Prediction model development
 
 ## Phase 3
+
+Members: PDRA1, PDRA2
 
 1. Recommendation engine development
