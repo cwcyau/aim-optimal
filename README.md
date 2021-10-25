@@ -15,5 +15,5 @@ This is a repository for *Work Package 1: Cluster sequences and response to ther
 ## Project Information
 
 - [Team](team.md)
-- [Work strands](strand.md)
+- [Work strands](strands.md)
 - [Milestones](milestones.md)
