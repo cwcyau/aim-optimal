@@ -1,6 +1,6 @@
 # Work Strands
 
-<img src="gfx/project_phases.png" alt="Phases" style="width:200px;"/>
+<img src="gfx/project_phases.png" alt="Phases" style="width:512px;"/>
 
 ## Phase 1
 
