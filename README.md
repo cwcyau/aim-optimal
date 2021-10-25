@@ -3,9 +3,14 @@
 This is a repository for *Work Package 1: Cluster sequences and response to therapies in cMM* of NIHR-funded AIM OPTIMAL project led by University of Birmingham.
 
 <figure>
-<img src="gfx/wp1a.png" alt="Trulli" style="width:70%">
-<figcaption align = "center"><b>Figure 1 - Schematic representation of WP1</b></figcaption>
+  <p align="center">
+    <img src="gfx/wp1a.png" alt="Trulli" style="width:70%">
+  </p>
+  <p align="center">
+    
+  </p>
 </figure>
+<figcaption align = "center" style="text-align:center"><b>Figure 1 - Schematic representation of WP1</b></figcaption>
 
 ## Objectives
 
