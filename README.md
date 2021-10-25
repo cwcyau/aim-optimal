@@ -2,7 +2,7 @@
 
 This is a repository for *Work Package 1: Cluster sequences and response to therapies in cMM* of NIHR-funded AIM OPTIMAL project led by University of Birmingham.
 
-<img src="gfx/wp1a.png" alt="Phases" style="width:512px;"/>
+<img src="gfx/wp1a.png" alt="Phases" style="width:720px;"/>
 
 ## Objectives
 
@@ -14,7 +14,7 @@ This is a repository for *Work Package 1: Cluster sequences and response to ther
 
 **RQ4:** Do acute clinical expressions (hyperglycaemia, delirium, TIA) and clinical data (increased granularity – features derived from images, electrophysiological findings, laboratory measurements) during hospital admissions and outpatient visits improve the predictive algorithms for future disease accumulation and therapeutic choice? (**Objective 4**)
 
-<img src="gfx/wp1b.png" alt="Phases" style="width:512px;"/>
+<img src="gfx/wp1b.png" alt="Phases" style="width:720px;"/>
 
 ## Project Information
 
