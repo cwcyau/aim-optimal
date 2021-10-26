@@ -31,7 +31,7 @@
 
 1. Clustering model development
 2. Prediction model development
-
+3. Analysis 
 
 ## Phase 3
 
@@ -39,3 +39,5 @@
 
 1. Recommendation engine development
 2. Linking to clinical utility
+3. Analysis
+
