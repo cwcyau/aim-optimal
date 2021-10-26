@@ -15,14 +15,15 @@
 
 1. **Data access and development cohort generation**
     - Initial CPRD extract (Meeting: 06/10/21)
-2. Data exploration
+2. Linking to clinical questions
+3. Data exploration
     - Missing data
     - Structure
     - Bias
     - Confounders
-3. Implementing and benchmarking pre-existing related methods
+4. Implementing and benchmarking pre-existing related methods
     - [DeepIPW](https://github.com/ruoqi-liu/DeepIPW)
-4. Learning useful representations for Phase 2/3
+5. Learning useful representations for Phase 2/3
 
 ## Phase 2
 
@@ -30,7 +31,7 @@
 
 1. Clustering model development
 2. Prediction model development
-3. Linking to clinical questions
+
 
 ## Phase 3
 
