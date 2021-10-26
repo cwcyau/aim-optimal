@@ -29,9 +29,11 @@ Members: Dominic, PDRA1, PDRA2
 
 1. Clustering model development
 2. Prediction model development
+3. Linking to clinical questions
 
 ## Phase 3
 
 Members: PDRA1, PDRA2
 
 1. Recommendation engine development
+2. Linking to clinical utility
