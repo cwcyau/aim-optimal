@@ -15,7 +15,7 @@
 
 1. **Data access and development cohort generation**
     - Initial CPRD extract (Meeting: 06/10/21)
-2. Linking to clinical questions
+2. **Linking to clinical questions**
 3. Data exploration
     - Missing data
     - Structure
