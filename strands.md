@@ -13,7 +13,7 @@
 
 Members: Steven, Dominic
 
-1. Data access and development cohort generation
+1. **Data access and development cohort generation**
 2. Data exploration
     - Missing data
     - Structure
