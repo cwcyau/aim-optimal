@@ -11,7 +11,7 @@
 
 ## Phase 1
 
-Members: Steven, Dominic
+**Members:** Steven, Dominic
 
 1. **Data access and development cohort generation**
     - Initial CPRD extract (Meeting: 06/10/21)
@@ -26,7 +26,7 @@ Members: Steven, Dominic
 
 ## Phase 2
 
-Members: Dominic, PDRA1, PDRA2
+**Members:** Dominic, PDRA1, PDRA2
 
 1. Clustering model development
 2. Prediction model development
@@ -34,7 +34,7 @@ Members: Dominic, PDRA1, PDRA2
 
 ## Phase 3
 
-Members: PDRA1, PDRA2
+**Members:** PDRA1, PDRA2
 
 1. Recommendation engine development
 2. Linking to clinical utility
