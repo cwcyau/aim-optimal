@@ -14,6 +14,7 @@
 Members: Steven, Dominic
 
 1. **Data access and development cohort generation**
+    - Initial CPRD extract (Meeting: 06/10/21)
 2. Data exploration
     - Missing data
     - Structure
